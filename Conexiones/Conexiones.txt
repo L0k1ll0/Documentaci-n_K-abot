@@ -1,0 +1,22 @@
+Instrucciones de Conexión:
+
+La siguiente conexión se debe hacer en el Shield del Arduino Nano, para calibrar los servos debes colocarlos en su posición de origen y acomodar al robot en la posición que te guste asegurando los servos con sus soportes.
+
+Sensor ultrasónico (HC-SR04):
+  VCC: +5V
+  GND: GND
+  Trig: D2
+  Echo: D3
+Servomotores:
+  Base Servo:
+    Señal: D9
+    VCC: +5V
+    GND: GND
+  Brazo Servo 1:
+    Señal: D10
+    VCC: +5V
+    GND: GND
+  Brazo Servo 2:
+    Señal: D11
+    VCC: +5V
+    GND: GND
